@@ -1,0 +1,2 @@
+Selected_Final_Model,Selected_Feature_Set,Optimization_Metric,Best_Threshold,Threshold_Recall_Fraud,Threshold_Precision_Fraud,Threshold_F1_Fraud
+XGBoost Tuned,Full Features,F1_Fraud,0.75,0.7895,0.9615,0.8671

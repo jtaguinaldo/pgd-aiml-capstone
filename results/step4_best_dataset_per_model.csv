@@ -1,0 +1,6 @@
+Dataset_Type,Model,Feature_Set,Recall_Fraud,Precision_Fraud,F1_Fraud,ROC_AUC,PR_AUC
+2,Decision Tree,PCA Features,0.8,0.0582,0.1086,0.8954,0.3417
+0,Gradient Boosting,Selected Features,0.8421,0.1368,0.2353,0.9752,0.7276
+1,Logistic Regression,Full Features,0.8737,0.0556,0.1046,0.9697,0.7109
+2,Random Forest,PCA Features,0.7368,0.8537,0.791,0.9531,0.796
+1,XGBoost,Full Features,0.8316,0.4647,0.5962,0.9762,0.7827

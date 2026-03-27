@@ -1,0 +1,4 @@
+Variable,Type,Description
+Time,float64,Elapsed time since first transaction
+Amount,float64,Transaction amount (euros)
+Class,int64,Fraud label

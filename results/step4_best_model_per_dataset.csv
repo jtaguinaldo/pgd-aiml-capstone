@@ -1,0 +1,4 @@
+Dataset_Type,Model,Feature_Set,Recall_Fraud,Precision_Fraud,F1_Fraud,ROC_AUC,PR_AUC
+0,Random Forest,Selected Features,0.7368,0.8861,0.8046,0.9642,0.794
+1,Random Forest,Full Features,0.7368,0.8861,0.8046,0.9802,0.7907
+2,Random Forest,PCA Features,0.7368,0.8537,0.791,0.9531,0.796

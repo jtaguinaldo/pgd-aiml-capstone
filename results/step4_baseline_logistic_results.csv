@@ -1,0 +1,4 @@
+Dataset_Type,Model,Feature_Set,Recall_Fraud,Precision_Fraud,F1_Fraud,ROC_AUC,PR_AUC
+0,Logistic Regression,Selected Features,0.8737,0.059,0.1105,0.9714,0.6609
+1,Logistic Regression,Full Features,0.8737,0.0556,0.1046,0.9697,0.7109
+2,Logistic Regression,PCA Features,0.8737,0.0601,0.1125,0.9671,0.6444

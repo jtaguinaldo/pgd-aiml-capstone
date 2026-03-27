@@ -1,0 +1,13 @@
+Model,Feature_Set,Metric,Before,After,Delta
+Random Forest Tuned,Full Features,F1,0.8046,0.8,-0.0046
+Random Forest Tuned,Full Features,Recall,0.7368,0.7579,0.0211
+Random Forest Tuned,Full Features,Precision,0.8861,0.8471,-0.039
+Random Forest Tuned,Full Features,PR-AUC,0.7907,0.7708,-0.0199
+XGBoost Tuned,Full Features,F1,0.5962,0.8492,0.253
+XGBoost Tuned,Full Features,Recall,0.8316,0.8,-0.0316
+XGBoost Tuned,Full Features,Precision,0.4647,0.9048,0.4401
+XGBoost Tuned,Full Features,PR-AUC,0.7827,0.8162,0.0335
+Random Forest Tuned,PCA Features,F1,0.791,0.8023,0.0113
+Random Forest Tuned,PCA Features,Recall,0.7368,0.7474,0.0106
+Random Forest Tuned,PCA Features,Precision,0.8537,0.8659,0.0122
+Random Forest Tuned,PCA Features,PR-AUC,0.796,0.7945,-0.0015

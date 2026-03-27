@@ -1,0 +1,4 @@
+Dataset_Type,Model,Feature_Set,Recall_Fraud,Precision_Fraud,F1_Fraud,ROC_AUC,PR_AUC
+1,Random Forest Tuned,Full Features,0.7579,0.8471,0.8,0.9783,0.7708
+1,XGBoost Tuned,Full Features,0.8,0.9048,0.8492,0.9718,0.8162
+2,Random Forest Tuned,PCA Features,0.7474,0.8659,0.8023,0.9475,0.7945
