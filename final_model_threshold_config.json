@@ -1,9 +1,0 @@
-{
-    "Selected_Final_Model": "XGBoost Tuned",
-    "Selected_Feature_Set": "Full Features",
-    "Optimization_Metric": "F1_Fraud",
-    "Best_Threshold": 0.75,
-    "Threshold_Recall_Fraud": 0.7895,
-    "Threshold_Precision_Fraud": 0.9615,
-    "Threshold_F1_Fraud": 0.8671
-}
